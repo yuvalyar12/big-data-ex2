@@ -1,7 +1,16 @@
 # big-data-ex2
+
 Hadoop Training questions
-Please answer the questions below
+
+Yuval Yarden - 318763455
+
+Rom Eisenberg - 207811472
+
+
+
 Exercise 1
+
+
 Q1. How many files are there?
 
 **A1. 6 files.**
@@ -22,7 +31,9 @@ Q5. What does the value of 'Merged Map outputs' represents and how is it calcula
 
 **A5. “Merged Map outputs” represent how many small pieces of data from the mappers get combined on the reducer side during the shuffle/sort step. In our case it’s number of mappers × number of reducers (9×3=27, 9×6=54).**
 
+
 Exercise 2
+
 
 Q1. Is your change in the mapper or in the reducer?
 
@@ -31,7 +42,9 @@ Q1. Is your change in the mapper or in the reducer?
 
 Q2. Please submit your code in GitHub
 
+
 Exercise 3
+
 
 Q1. Is your change in the mapper or in the reducer?
 
